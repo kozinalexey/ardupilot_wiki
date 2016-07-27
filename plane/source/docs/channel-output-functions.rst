@@ -46,6 +46,7 @@ aircraft. The ones that are implemented on fixed wing are listed below:
 -  Flaperon1=24
 -  Flaperon2=25
 -  GroundSteering=26
+-  QuaidplaneMotorTiltServo=41
 
 The default value for all channels is 0, meaning disabled. That means
 the channel will output the trim value for that channel (for example, if
