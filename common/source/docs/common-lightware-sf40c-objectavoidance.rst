@@ -4,7 +4,7 @@
 LightWare SF40c for Object Avoidance
 ====================================
 
-The `Lightware SF40c 360degree lidar <http://www.lightware.co.za/shop/en/scanning-and-obstacle-detection/45-sf40c-100-m.html>`__ can be used for Object Avoidance in Copter-3.4 and higher in Loiter mode.
+The `Lightware SF40c 360degree lidar <http://lightware.co.za/shop2017/sense-and-avoid/45-sf40c-100-m.html>`__ can be used for Object Avoidance in Copter-3.4 and higher in Loiter mode.
 
 .. warning::
 
